@@ -1,0 +1,1 @@
+data.Amount = data.Amount.apply(eval)
